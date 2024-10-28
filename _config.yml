@@ -21,7 +21,7 @@ repository               : "upcerbin/upcerbin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "原.jpg"
+  avatar           : "profile.png"
   name             : "Haibin Xu"
   pronouns         : # example: "she/her"  
   bio              : "Oil and Gas Engineering"
